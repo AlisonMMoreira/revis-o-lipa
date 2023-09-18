@@ -1,2 +1,2 @@
-# revis-o-lipa
+# revisao-lipa
 revisão de lipa
